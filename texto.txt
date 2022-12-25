@@ -1,2 +1,2 @@
-Olá meu nome é João Vitor Pereira de Bortoli.
+Olá meu nome é João Vitor. 
 Primeira alteração do texto, para estudar versionamento de código.
