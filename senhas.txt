@@ -1,1 +1,1 @@
-senha: 391827398172 que não é publica por meio do git add .ß
+senha: 391827398172 que não é publica por meio do git add .
